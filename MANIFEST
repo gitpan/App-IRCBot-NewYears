@@ -1,0 +1,14 @@
+Build.PL
+Changes
+bin/app-ircbot-newyears.pl
+lib/App/IRCBot/NewYears.pm
+MANIFEST
+LICENSE
+README
+t/00-load.t
+xt/pod-coverage.t
+xt/pod.t
+xt/kwalitee.t
+Makefile.PL
+META.yml
+META.json
