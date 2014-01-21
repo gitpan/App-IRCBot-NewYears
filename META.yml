@@ -16,7 +16,7 @@ name: App-IRCBot-NewYears
 provides:
   App::IRCBot::NewYears:
     file: lib/App/IRCBot/NewYears.pm
-    version: 1.001001
+    version: 1.001002
 requires:
   Data::Dumper: 2.136
   Date::Manip: 6.36
@@ -31,4 +31,4 @@ requires:
   perl: 5.010
 resources:
   license: http://www.perlfoundation.org/artistic_license_2_0
-version: 1.001001
+version: 1.001002

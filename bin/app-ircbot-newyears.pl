@@ -13,7 +13,7 @@ use POE qw(Component::IRC  Component::IRC::Plugin::WWW::Google::Time
     Component::IRC Component::IRC::Plugin::Connector
     Component::IRC::Plugin::BotAddressed
 );
-our $VERSION = '1.001001';
+our $VERSION = '1.001002';
 
  my @channels = ('#zofbot', '#freenode-newyears', '#freenode-newyears-nospam');
 #my @channels = ('#zofbot');

@@ -43,7 +43,7 @@
    "provides" : {
       "App::IRCBot::NewYears" : {
          "file" : "lib/App/IRCBot/NewYears.pm",
-         "version" : "1.001001"
+         "version" : "1.001002"
       }
    },
    "release_status" : "stable",
@@ -52,5 +52,5 @@
          "http://www.perlfoundation.org/artistic_license_2_0"
       ]
    },
-   "version" : "1.001001"
+   "version" : "1.001002"
 }
