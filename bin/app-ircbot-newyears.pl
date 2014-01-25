@@ -4,16 +4,16 @@ use 5.010;
 use strict;
 use warnings;
 use Data::Dumper;
-use DateTime;
-use Date::Manip;
-use Number::Denominal;
-use Encode;
+use DateTime 1.03;
+use Date::Manip 6.36;
+use Number::Denominal 1.104;
+use Encode 2.55;
 
 use POE qw(Component::IRC  Component::IRC::Plugin::WWW::Google::Time
     Component::IRC Component::IRC::Plugin::Connector
     Component::IRC::Plugin::BotAddressed
 );
-our $VERSION = '1.001002';
+our $VERSION = '1.001003';
 
  my @channels = ('#zofbot', '#freenode-newyears', '#freenode-newyears-nospam');
 #my @channels = ('#zofbot');
